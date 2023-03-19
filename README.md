@@ -10,7 +10,7 @@ for gaming or watching movies🎮🎞️.</p>
 
 <p>I was very fascinated by the programming topics like my name (Facinet)😄</br>
 My love and passion for coding comes from there and today it's my profession.
-I am constantly learning and developing and I love it❤️.</p>
+I am constantly learning, growing and I love it❤️.</p>
 
 <p>My dream today is to become the software engineer who appears to me every day in my dreams when I'm sleeping.</br>
 <p>I would be happy to talk to you about him but meantime here are facts👌 about me.</p>
