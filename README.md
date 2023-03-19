@@ -36,5 +36,5 @@ I am constantly learning and developing and I love it❤️.</p>
   <li>I'm opened👂 to collaboration, opportunities...</li>
   <li>I'ld be happy to get in touch on <strong>Linkedin</strong>, let's connect via<a href="https://www.linkedin.com/in/facinetkouyate/"> my profile</a>
 </ul>
-<h2 style="text-align:center">BIG THANKS TO YOU🙏</h2>
+<h3 style="text-align:center">BIG THANKS TO YOU🙏</h3>
 
