@@ -1,6 +1,6 @@
 <h1>Hi There👋</h1>
 
-<p>I'm <strong>Facinet</strong>, from Guinea🇲🇱, actualy studying Software Engineering💻 at <a href="https://42wolfsburg.de/">42 wolfsburg</a>.</br>
+<p>I'm <strong>Facinet</strong>, from Guinea🇬🇳, actualy studying Software Engineering💻 at <a href="https://42wolfsburg.de/">42 wolfsburg</a>.</br>
 
 In my country we love football⚽ , it was even my dream to become a profesional player (Goleador)</br>
 After my high school, I didn't even know which field choose🤷‍♂️.</br>
@@ -26,7 +26,7 @@ I am constantly learning, growing and I love it❤️.</p>
  
 <h3>Soft</h3>
  <ul>
-   <li>I am calm, very friendly, I like human beings🫂</li>
+   <li>I am calm, very friendly, I like human beings🤝</li>
    <li>I'm not the type to stay closed in a comfort zone, I like to explore new things🤞.</li>
    <li>I like👍 team work, peer programming, peer learning, I do it every day at school.</li>
    <li>I prefer👍 honest even stinging feedback that allows me to move forward rather than gentle but hypocritical feedback.</li>
