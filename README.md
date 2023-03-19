@@ -1,8 +1,8 @@
 <h1>Hi There👋</h1>
 
-<p>I'm <strong>Facinet</strong>, from Guinea actualy studying Software Engineering💻 at <a href="https://42wolfsburg.de/">42 wolfsburg</a>.</br>
+<p>I'm <strong>Facinet</strong>, from Guinea🇲🇱, actualy studying Software Engineering💻 at <a href="https://42wolfsburg.de/">42 wolfsburg</a>.</br>
 
-In my country we love football⚽ , it was even my dream to become a profesional player⛹🏼</br>
+In my country we love football⚽ , it was even my dream to become a profesional player (Goleador)</br>
 After my high school, I didn't even know which field choose🤷‍♂️.</br>
 I just went for Networks & telecoms because I knew a guy who's a telecom Engineer.</br>
 During the first year, a common core, I discovered computer science and realised my laptop is not
@@ -16,7 +16,7 @@ I am constantly learning, growing and I love it❤️.</p>
 <p>I would be happy to talk to you about him but meantime here are facts👌 about me.</p>
 
 <h3>Technical</h3>
-<ul type="✔️">
+<ul>
   <li>Currently, I'm using <strong>C/C++</strong> the most for my school  projects and solving coding problems in DSA</li>
   <li>I like <strong>Kotlin</strong>, less writing, greater readibily, safety code and the most perfect for Android development (my favorite❤️ )</li>
   <li>I can build frontend with <strong>HTML/CSS, Javascript</strong> and backend with <strong>PHP + MYSQL</strong>. Yes, I like👍 web development too.     </li>
@@ -26,7 +26,7 @@ I am constantly learning, growing and I love it❤️.</p>
  
 <h3>Soft</h3>
  <ul>
-   <li>I am calm, very friendly, I like human beings🤝</li>
+   <li>I am calm, very friendly, I like human beings🫂</li>
    <li>I'm not the type to stay closed in a comfort zone, I like to explore new things🤞.</li>
    <li>I like👍 team work, peer programming, peer learning, I do it every day at school.</li>
    <li>I prefer👍 honest even stinging feedback that allows me to move forward rather than gentle but hypocritical feedback.</li>
