@@ -16,11 +16,13 @@ I am constantly learning and developing and I love it❤️.</p>
 <p>I would be happy to talk to you about him but meantime here are facts👌 about me.</p>
 
 <h3>Technical</h3>
-<ul type="circle">
-  <li> Currently, I use <strong>C/C++</strong> for my school  projects.</li>
-  <li> I like <strong>Kotlin</strong>, less writing, greater readibily, safety code and the most perfect for Android development (my favorite❤️ )</li>
-  <li> I can do frontend with <strong>HTML/CSS</strong>, Javascript and backend with <strong>PHP + MYSQL</strong>. Yes, I like👍 web development too.</li>
+<ul type="check">
+  <li>Currently, I'm using <strong>C/C++</strong> the most for my school  projects.</li>
+  <li>I like <strong>Kotlin</strong>, less writing, greater readibily, safety code and the most perfect for Android development (my favorite❤️ )</li>
+  <li>I can build frontend with <strong>HTML/CSS, Javascript</strong> and backend with <strong>PHP + MYSQL</strong>. Yes, I like👍 web development too.</li>
+  <li>I know shell commands, yes I can use the black window (terminal) to interact with <strong>UNIX Systems</strong>.
 </ul>
+
 
 
 
