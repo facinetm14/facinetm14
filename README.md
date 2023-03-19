@@ -34,8 +34,8 @@ I am constantly learning and developing and I love it❤️.</p>
 <h3>Contact</h3>
 <ul>
   <li>I'm opened👂 to collaboration, opportunities...</li>
-  <li>I'ld be happy to get in touch on <strong>Linkedin</strong>, let's connect via<a href="https://www.linkedin.com/in/facinetkouyate/">my profile</a>
+  <li>I'ld be happy to get in touch on <strong>Linkedin</strong>, let's connect via<a href="https://www.linkedin.com/in/facinetkouyate/"> my profile</a>
 </ul>
 
-    <h2>BIG THANKS TO YOU🙏<h2>
+    <h2>BIG THANKS TO YOU🙏</h2>
 
