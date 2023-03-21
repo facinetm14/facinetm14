@@ -20,8 +20,8 @@ I am constantly learning, growing and I love it❤️.</p>
   <li>Currently, I'm using <strong>C/C++</strong> the most for my school  projects and solving coding problems in DSA</li>
   <li>I like <strong>Kotlin</strong>, less writing, greater readibily, safety code and the most perfect for Android development (my favorite❤️ )</li>
   <li>I can build frontend with <strong>HTML/CSS, Javascript</strong> and backend with <strong>PHP + MYSQL</strong>. Yes, I like👍 web development too.     </li>
-  <li>I know shell commands, yes I can use the black window (terminal) to interact with <strong>UNIX Systems</strong>.
-  <li>I code in <strong>OOP</strong>, can apply <strong>MVC patterns<strong> and know the <strong>SOLID</strong>principles.
+  <li>I know how to interact with <strong>UNIX Systems</strong> through shell.
+  <li>I code in <strong>OOP</strong>, can apply <strong>MVC patterns<strong> and know the <strong>SOLID</strong> principles.
 </ul>
  
 <h3>Soft</h3>
