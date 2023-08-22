@@ -17,7 +17,7 @@ I am constantly learning, growing and I love it❤️.</p>
 
 <h3>Technical</h3>
 <ul>
-  <li>Currently, I'm using <strong>C/C++</strong> the most for my school  projects and solving coding problems in DSA</li>
+  <li>Currently, I'm using <strong>C/C++ and Typescript</strong> the most for my school  projects and solving coding problems in DSA</li>
   <li>I like <strong>Kotlin</strong>, less writing, greater readibily, safety code and the most perfect for Android development (my favorite❤️ )</li>
   <li>I can build frontend with <strong>HTML/CSS, Javascript</strong> and backend with <strong>PHP + MYSQL</strong>. Yes, I like👍 web development too.     </li>
   <li>I know how to interact with <strong>UNIX Systems</strong> through shell.
