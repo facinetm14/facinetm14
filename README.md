@@ -22,7 +22,7 @@ I am constantly learning, growing and I love it❤️.</p>
   <li>I can build frontend with <strong>HTML/CSS, Javascript</strong> and backend with <strong>PHP + MYSQL || NestJs</strong>. Yes, I like👍 web development too.     </li>
   <li>I know how to interact with <strong>UNIX Systems</strong> through shell.
   <li>I code in <strong>OOP</strong>, can apply <strong>MVC patterns</strong> and know the <strong>SOLID</strong> principles.
-  <li>I'm learning Clean Architechture</li>
+  <li>I'm learning <strong>Clean Architechture</strong></li>
 </ul>
  
 <h3>Soft</h3>
