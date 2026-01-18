@@ -19,9 +19,9 @@ I am constantly learning, growing and I love it❤️.</p>
 <ul>
   <li>Currently, I'm using <strong>C/C++ and Typescript</strong> the most for my school  projects and solving coding problems in DSA</li>
   <li>I like <strong>Kotlin</strong>, less writing, greater readibily, safety code and the most perfect for Android development (my favorite❤️ )</li>
-  <li>I can build frontend with <strong>HTML/CSS, Javascript</strong> and backend with <strong>PHP + MYSQL || NestJs</strong>. Yes, I like👍 web development too.     </li>
+  <li>I can build frontend with <strong>HTML/CSS, Javascript</strong> and backend with <strong>NodeJs/Typescript</strong>. Yes, I like👍 web development too.     </li>
   <li>I know how to interact with <strong>UNIX Systems</strong> through shell.
-  <li>I code in <strong>OOP</strong>, can apply <strong>MVC patterns</strong> and know the <strong>SOLID</strong> principles.
+  <li>I code in <strong>OOP</strong>, can apply <strong>design patterns</strong> and know the <strong>SOLID</strong> principles.
   <li>I'm learning <strong>Clean Architechture</strong></li>
 </ul>
  
@@ -36,7 +36,6 @@ I am constantly learning, growing and I love it❤️.</p>
 <ul>
   <li>I'm opened👂 to collaboration, opportunities...</li>
   <li>I'ld be happy to get in touch on <strong>Linkedin</strong>, let's connect via<a href="https://www.linkedin.com/in/facinetkouyate/"> my profile</a>
-  <li>Checkout my portfolio website <a href="http://facinetkouyate.tech/" target="_blank" >facinetkouyate.tech</a></li>
 </ul>
 <h3 style="text-align:center">BIG THANKS TO YOU🙏</h3>
 
