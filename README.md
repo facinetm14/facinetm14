@@ -1,6 +1,6 @@
 <h1>Hi There👋</h1>
 
-<p>I'm <strong>Facinet</strong>, from Guinea &#x1F1EC;&#x1F1F3;, actualy studying Software Engineering💻 at <a href="https://42wolfsburg.de/">42 wolfsburg</a>.</br>
+<p>I'm <strong>Facinet</strong>, from Guinea &#x1F1EC;&#x1F1F3;, actualy studying Software Engineering💻 at <a href="https://42.fr/en/homepage//">42 Paris</a>.</br>
 
 In my country we love football⚽ , it was even my dream to become a profesional player (Goleador)</br>
 After my high school, I didn't even know which field choose🤷‍♂️.</br>
