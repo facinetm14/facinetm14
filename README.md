@@ -1,8 +1,6 @@
 # Hi, I’m Facinet 👋
 
-I’m a full-stack engineer from Guinea. I found programming while studying networks and telecommunications, and I still enjoy tracing how a system works, from a database constraint to the screen someone uses.
-
-I build B2B software with TypeScript, Node.js, Vue, React, and PostgreSQL. In real-estate financing, I reworked an invitation flow so several banks could invite the same property developer, from the data model and API permissions through to the Vue forms. In insurance, I connected vehicle-registration data to a pricing service and tested the workflow end to end.
+I’m a full-stack developer from Guinea, focused on backend engineering. I ship features end to end, from the data model and API to the interface people use. I especially enjoy finding what slows a system down and making it more reliable when something fails.
 
 ## Selected projects
 
