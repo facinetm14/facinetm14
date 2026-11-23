@@ -1,19 +1,15 @@
-Hi, I'm Facinet 👋
-Software Engineer from Guinea 🇬🇳.
+# Hi, I’m Facinet 👋
 
-I didn’t discover programming very early.
-At first, I chose Networks & Telecommunications almost randomly, until computer science completely changed the way I looked at technology and problem solving.
+I’m a full-stack engineer from Guinea. I found programming while studying networks and telecommunications, and I still enjoy tracing how a system works, from a database constraint to the screen someone uses.
 
-Since then, software engineering has become more than just a profession for me. I genuinely enjoy building things, understanding how systems work and continuously improving as an engineer.
+I build B2B software with TypeScript, Node.js, Vue, React, and PostgreSQL. In real-estate financing, I reworked an invitation flow so several banks could invite the same property developer, from the data model and API permissions through to the Vue forms. In insurance, I connected vehicle-registration data to a pricing service and tested the workflow end to end.
 
-Today, I mainly work with TypeScript, Node.js and modern web technologies to build scalable and maintainable applications in production environments.
+## Selected projects
 
-🛠 Tech:
-TypeScript • Node.js • Vue.js • PostgreSQL • Docker • Python
+- [QJFit](https://github.com/facinetm14/qjfit) collects job offers and ranks them against a CV. It brings together a TypeScript API, a Vue client, and PostgreSQL.
+- [Tech Career Kit](https://github.com/facinetm14/tech-career-kit) grew out of my own learning routine. I turned it into installable AI workflows for learning, CV feedback, and interview practice. [One change shows how I refined interviewer follow-ups](https://github.com/facinetm14/tech-career-kit/commit/14bee50d0ac0c63cb0c3ed3e43a502e19d0886ea).
+- [Matcha](https://github.com/facinetm14/matcha) is a collaborative dating application with real-time chat and notifications, built with React, Node.js, PostgreSQL, and Redis.
 
-🧠 Engineering mindset:
-SOLID • TDD • Design Patterns • Clean Architecture
+I also contribute to game AI. In [Gomoku](https://github.com/pbeheyt/Gomoku/pull/3), I worked on detecting winning threats.
 
-I enjoy collaborative environments, honest feedback, challenging problems and ambitious products.
-
-Still learning every day and honestly, that's my favorite part of this journey 🚀
+[Connect with me on LinkedIn](https://www.linkedin.com/in/facinetkouyate/)
